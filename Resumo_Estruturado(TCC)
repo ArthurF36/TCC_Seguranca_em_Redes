@@ -1,0 +1,32 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Resumo estruturado (TCC)}
+\author{Arthur Franco}
+\date{25 de março de 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Contexto}
+
+No período do primeiro semestre de 2020, uma pesquisa realizada pelo grupo \textit{Safety Detectives} determinou a ocorrência de uma quebra de segurança nos servidores da empresa Natura, no qual esta falha ocasionou o vazamento de aproximadamente 192 milhões de dados pessoais de clientes registrados no sistema da corporação.
+
+\section{Problema}
+
+A falta de prioridade na percepção ou na análise de possíveis problemas presentes em servidores ou na internet, o qual estes podem ocasionar a perda da privacidade dos usuários.
+
+\section{Objetivo}
+
+O objetivo principal buscado será a análise do meio social presente na manipulação da rede de computadores para a criação de uma educação voltada ao aprendizado de uma forma mais adequada de utilização dos próprios dados armazenados na internet.
+
+\section{Metodologia}
+
+Serão analisadas avaliações de riscos e de monitoramento em servidores abertos para a descoberta de possíveis quebras de segurança.
+
+\section{Resultado esperado}
+
+Após a interpretação bem sucedida de todas as análises realizadas, é esperado a criação de projetos que visam a conscientização de políticas que fiscalizem a seguridade dos servidores em rede.
+
+\end{document}
