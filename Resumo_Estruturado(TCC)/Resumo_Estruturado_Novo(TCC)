@@ -1,0 +1,32 @@
+\documentclass[12pt, letterpaper]{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{Resumo estruturado - Novo (TCC)}
+\author{Arthur Franco}
+\date{04 de abril de 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Contexto}
+
+No período do primeiro semestre de 2020, uma pesquisa realizada pelo grupo \textit{Safety Detectives} determinou a ocorrência de uma quebra de segurança o que ocasionou o vazamento de aproximadamente 192 milhões de dados.
+
+\section{Problema}
+
+A falta de prioridade na percepção de possíveis problemas em servidores.
+
+\section{Objetivo}
+
+Busca-se a análise do meio social presente na rede de computadores para a criação de uma educação voltada para a utilização de dados armazenados.
+
+\section{Metodologia}
+
+Serão analisadas avaliações de riscos em servidores abertos para a descoberta de possíveis quebras de segurança.
+
+\section{Resultado esperado}
+
+É esperado a criação de projetos que visam a conscientização de políticas que fiscalizem a seguridade dos servidores em rede.
+
+\end{document}
